@@ -9,6 +9,7 @@
 #import "HelloWorldAppDelegate.h"
 
 @implementation HelloWorldAppDelegate
+//你好
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
