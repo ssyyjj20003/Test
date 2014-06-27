@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface HelloWorldAppDelegate : UIResponder <UIApplicationDelegate>
+//你好
+
 
 @property (strong, nonatomic) UIWindow *window;
 
